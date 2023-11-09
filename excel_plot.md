@@ -21,13 +21,14 @@ Cons:
 
 * May require manual steps for repetitive tasks, leading to potential errors.
 
-Instructions
+<h4> Instructions </h4>
 
 For each these plotting exercises throughout the course, we’ll usually be following the same set of goals. In each of these plotting assignments you will need to do the following objectives:
 
-* Load the Alta data. (
-https://github.com/mattharrison/datasets/blob/master/data/alta-noaa-1980-2019.csv
-)
+* Load the Alta data.
+
+###### https://github.com/mattharrison/datasets/blob/master/data/alta-noaa-1980-2019.csv
+
 
 * Plot a histogram of snow depth
 
@@ -45,7 +46,7 @@ Tool specific Instructions
 
 Microsoft 365 has a 1-month free trial that you can sign up for, if you do not already have access from an existing license, institution, or workplace. You can get started with 
 Microsoft 365 here
-.
+* https://www.microsoft.com/en-us/microsoft-365/try
 
 Reflection
 
