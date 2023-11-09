@@ -19,7 +19,7 @@ GitHub Repository where you can find all the ungraded labs and programming assig
 
 
 
-* tensorflow-2-public/C1_Browser-based-TF-JS/
+* https://github.com/https-deeplearning-ai/tensorflow-2-public/tree/main/C1_Browser-based-TF-JS
 
 
 
