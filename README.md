@@ -1,10 +1,6 @@
 # Duke_Applied_Data
 
 ### Course 1: Visualizing Data with Python
-Repos
-* https://github.com/https-deeplearning-ai/tensorflow-2-public
-* https://github.com/https-deeplearning-ai/tensorflow-2-public/tree/main/C1_Browser-based-TF-JS
-
 
 <h4> Getting Your System Ready </h4>
 
