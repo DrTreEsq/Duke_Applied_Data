@@ -5,19 +5,14 @@
 Pros:
 
 * Familiar and widely used spreadsheet tools with a user-friendly interface.
-
 * Suitable for small datasets and quick data exploration.
-
 * Offers a wide range of built-in functions for data manipulation and analysis.
-
 * Supports basic charting and visualization capabilities.
 
 Cons:
 
 * Limited scalability for large datasets and complex analyses.
-
 * Less flexible in terms of customization and advanced statistical visualizations.
-
 * May require manual steps for repetitive tasks, leading to potential errors.
 
 <h4> Instructions </h4>
@@ -30,16 +25,12 @@ For each these plotting exercises throughout the course, we’ll usually be foll
 
 
 * Plot a histogram of snow depth
-
 * Plot a scatter plot of snow fall with respect to temperature
-
 * Plot a line for each of the following:
 
-** Minimum temperature
-
-** Observation temperature
-
-** Maximum temperature
+1. Minimum temperature
+2. Observation temperature
+3. Maximum temperature
 
 Tool specific Instructions
 
