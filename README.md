@@ -6,15 +6,12 @@ Repos
 * https://github.com/https-deeplearning-ai/tensorflow-2-public/tree/main/C1_Browser-based-TF-JS
 
 
-Getting Your System Ready
+<h4> Getting Your System Ready </h4>
 
 In this course you will be running all the examples and exercises locally on your machine. Consequently, you will need to have an internet browser, an HTML editor, and a web server installed on your machine. Throughout this course we are going to use 
-Chrome
- as our internet browser,  
-Brackets
- as our HTML editor and the 
-Web Server for Chrome App
- as our web server. All of these are free and are available for various platforms including Windows, Mac OS, and Linux. Below, we will go over the installation process of each of these. Of course, you are welcome to use any software that you like, but we recommend that you install the above so that it is easier for you to follow along. 
+Chrome as our internet browser,  
+Brackets as our HTML editor and the 
+Web Server for Chrome App as our web server. All of these are free and are available for various platforms including Windows, Mac OS, and Linux. Below, we will go over the installation process of each of these. Of course, you are welcome to use any software that you like, but we recommend that you install the above so that it is easier for you to follow along. 
 
 Chrome
 
@@ -25,11 +22,7 @@ Chrome home page
 
 Click the blue "Download Chrome" button to download the installation file to your machine.
 
-Install Chrome on Windows
 
-If prompted, click Run or Save.
-If you chose Save, double-click the downloaded file to start installing.
-Start Chrome.
 Install Chrome on Mac
 
 Open the file called googlechrome.dmg.
@@ -73,39 +66,10 @@ Note: On September 1, 2021, Adobe will end support for Brackets so you might not
 Github repo releases section
 . 
 
-For Windows, v1.14.2 download link can be found 
-here
-.
 
 For Mac, v1.14.2 download link can be found 
 here
 .
-
-Install Brackets on Windows 
-
-If prompted, click Run or Save.
-If you chose Save, double-click the downloaded file to start installing.
-Start Brackets.
-When you open Brackets for the first time it will open a Windows Security Alter window. Click on "Allow Access" to run Brackets.
-Install Brackets on Mac
-
-Open the file called Brackets.Release.1.14.0.dmg. Note: The numbers at the end of the filename will change depending on the version that you are installing.
-Open the downloaded file.
-Drag Brackets to the Applications folder.
-Open Brackets.
-Open Finder.
-In the sidebar, to the right of Brackets, click Eject.
-Install Brackets on Linux
-
-Use the same software that installs programs on your computer to install Brackets. You'll be asked to enter the administrator account password.
-
-To open the 
-package
-, click OK.
-Click Install Package.
-If you run into trouble installing Brackets in your Linux system, make sure to check out the 
-Brackets Linux Guide
-. 
 
 That's it! You should now be all setup to follow along. 
 
@@ -135,7 +99,10 @@ GitHub Repository where you can find all the ungraded labs and programming assig
 ###### NOTE: The code in the repository is updated occasionally. Therefore the code in the repository may vary slightly from the one shown in the videos. 
 
 
-Getting Ready: Accessing Microsoft Excel
+<h4> Getting Ready: Accessing Microsoft Excel </h4>
+
+* https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658
+
 In data visualization, it's easy to get carried away with cutting-edge tools and techniques, but let's not overlook the timeless foundation—Excel. While we may be well-versed in its functionalities, it remains a fundamental asset in our toolkit. Excel's familiar interface and robust data manipulation capabilities provide a sturdy starting point for any data visualization project, allowing us to efficiently structure, clean, and analyze data before diving into more advanced visualization methods. As we explore innovative approaches, let's remember to pay homage to this versatile workhorse that continues to underpin our data visualization endeavors.
 
 If you have a Microsoft 365 subscription, Microsoft Excel is available as part of the Microsoft Office suite. If you don't have a Microsoft 365 subscription or need to install Excel from another source (like a product key or installer file), you can follow these steps to 
