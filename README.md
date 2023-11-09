@@ -134,5 +134,15 @@ GitHub Repository where you can find all the ungraded labs and programming assig
 
 ###### NOTE: The code in the repository is updated occasionally. Therefore the code in the repository may vary slightly from the one shown in the videos. 
 
+
+Getting Ready: Accessing Microsoft Excel
+In data visualization, it's easy to get carried away with cutting-edge tools and techniques, but let's not overlook the timeless foundation—Excel. While we may be well-versed in its functionalities, it remains a fundamental asset in our toolkit. Excel's familiar interface and robust data manipulation capabilities provide a sturdy starting point for any data visualization project, allowing us to efficiently structure, clean, and analyze data before diving into more advanced visualization methods. As we explore innovative approaches, let's remember to pay homage to this versatile workhorse that continues to underpin our data visualization endeavors.
+
+If you have a Microsoft 365 subscription, Microsoft Excel is available as part of the Microsoft Office suite. If you don't have a Microsoft 365 subscription or need to install Excel from another source (like a product key or installer file), you can follow these steps to 
+download and install or reinstall Microsoft 365 or Office 2021 on a PC or Mac
+.
+
+Note: If you are a student or educator, you may be eligible for special offers or discounts through your educational institution. Additionally, some computers may come with pre-installed versions of Microsoft Office, which may include Excel. Be sure to check for any available options before purchasing or downloading Excel separately.
+
 Resources
 * https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet
