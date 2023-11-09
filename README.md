@@ -111,5 +111,5 @@ download and install or reinstall Microsoft 365 or Office 2021 on a PC or Mac
 
 Note: If you are a student or educator, you may be eligible for special offers or discounts through your educational institution. Additionally, some computers may come with pre-installed versions of Microsoft Office, which may include Excel. Be sure to check for any available options before purchasing or downloading Excel separately.
 
-Resources
+Additional Resources
 * https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet
