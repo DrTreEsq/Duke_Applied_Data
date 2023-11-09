@@ -19,7 +19,7 @@ GitHub Repository where you can find all the ungraded labs and programming assig
 
 
 
-<li> tensorflow-2-public/C1_Browser-based-TF-JS/ </li>
+<li> <a href= "tensorflow-2-public/C1_Browser-based-TF-JS/"> </a> </li>
 
 
 
