@@ -4,9 +4,8 @@ With Google Sheets, you have a powerful and collaborative platform for data visu
 
 Accessing Google Sheets:
 
-Open your web browser and go to the 
-Google Sheets
- website.
+Open your web browser and go to the https://docs.google.com/spreadsheets/u/0/?pli=1 Google Sheets website.
+
 If you have a Google account, sign in using your Gmail credentials. If you don't have a Google account, click on the "Create account" button to create one—it's free and will give you access to Google Sheets and other Google services.
 Once you are signed in, you will be redirected to the Google Sheets homepage, where you can start using the application.
 Starting a New Google Sheet:
